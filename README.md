@@ -14,7 +14,7 @@ I'm currently dedicating a high percentage of my time to FastAPI, Typer, and my 
 
 If my open source projects are useful for your **product/company** you can also sponsor my work on them. ☕
 
-You can find me on:
+You can find me on:-
 
 * [My website: tiangolo.com](https://tiangolo.com/)
 * [Twitter as @tiangolo](https://twitter.com/tiangolo)
