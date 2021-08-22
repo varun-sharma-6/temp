@@ -2,7 +2,7 @@
 
 I'm a software developer from Colombia
 
-I currently live in Berlin, Germany. 🇩🇪
+I currently live
 
 I have been building APIs and tools for Machine Learning and data systems, in Latin America, the Middle East, and now Europe, with different teams and organizations. 🌎
 
