@@ -1,6 +1,6 @@
 ### Hey! I'm [@tiangolo](https://twitter.com/tiangolo) (Sebastián Ramírez) 👋
 
-I'm a software developer from Colombia. 🇨🇴
+I'm a software developer from Colombia
 
 I currently live in Berlin, Germany. 🇩🇪
 
